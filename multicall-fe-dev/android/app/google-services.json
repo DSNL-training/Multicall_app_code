@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "951881426170",
+    "firebase_url": "https://multicall-40351.firebaseio.com",
+    "project_id": "multicall-40351",
+    "storage_bucket": "multicall-40351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951881426170:android:dce774b40a63f300",
+        "android_client_info": {
+          "package_name": "com.dsnl.multicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951881426170-lrorufea658ngkl6qa5gl213ecuok507.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsnl.multicall",
+            "certificate_hash": "e2892918316c14510ccc5adebbbef54500225671"
+          }
+        },
+        {
+          "client_id": "951881426170-qbgmib2kilbt128qtmua2kstrgn6q51e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsnl.multicall",
+            "certificate_hash": "94e1e319dd36a07644180da1329bb80512229340"
+          }
+        },
+        {
+          "client_id": "951881426170-qcp7idg1k58vglhm8aifql82llkf2rbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsnl.multicall",
+            "certificate_hash": "3f37f06c344975409946e4d75993519b07b811f3"
+          }
+        },
+        {
+          "client_id": "951881426170-shgm0mfm654aartoi168oo1bh5260i21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBym6JuViP1cxJ_Q4l4VyBWcb7E4_pcKa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951881426170-sgefu4pe519p3p1s2vkes3snu0a3d0kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

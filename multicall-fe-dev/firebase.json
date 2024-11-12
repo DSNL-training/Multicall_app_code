@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "multicall-40351",
+          "appId": "1:951881426170:android:dce774b40a63f300",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "multicall-40351",
+          "appId": "1:951881426170:ios:20d07575aa5d3514519543",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "multicall-40351",
+          "configurations": {
+            "android": "1:951881426170:android:dce774b40a63f300",
+            "ios": "1:951881426170:ios:20d07575aa5d3514519543"
+          }
+        }
+      }
+    }
+  }
+}
